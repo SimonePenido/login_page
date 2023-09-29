@@ -1,5 +1,5 @@
 
-![Login_Escuro width:300px](https://github.com/SimonePenido/login_page/assets/112627846/ba131e17-04ed-471e-b685-2ac04122a3d4)
+![Login_Escuro](https://github.com/SimonePenido/login_page/assets/112627846/ba131e17-04ed-471e-b685-2ac04122a3d4)
 
 # Login Fundo Escuro
 
